@@ -1,0 +1,1 @@
+drop database myfeet_store;

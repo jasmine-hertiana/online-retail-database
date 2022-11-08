@@ -1,0 +1,1 @@
+update product set description = 'hanya tersedia ukuran M' where id = 5;
