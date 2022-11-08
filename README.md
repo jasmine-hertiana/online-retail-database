@@ -3,4 +3,4 @@ MyFeet merupakan salah satu toko online retail yang menjual berbagai jenis alas 
 
 &nbsp;
 
-![erd](./ERD%20files/MyFeet-erd.png)
+![erd](./ERD%20files/MyFeet-ERD.png)
